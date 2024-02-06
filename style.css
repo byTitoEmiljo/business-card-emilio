@@ -1,0 +1,18 @@
+H1 {
+    color: black;
+    font-size:28px;
+}
+
+H2 {
+    color: rgb(35, 119, 140);
+    font-size:14px;
+}
+
+.imagen {
+    max-width: 10%;
+    border-radius: 5%;
+}
+
+.paragraph {
+    max-width: 30%;
+}

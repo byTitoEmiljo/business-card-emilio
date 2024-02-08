@@ -1,18 +1,46 @@
 H1 {
     color: black;
-    font-size:28px;
+    font-size:26px;
+    text-align: center;
+    font-family: 'Sixtyfour', sans-serif;
 }
 
 H2 {
-    color: rgb(35, 119, 140);
+    color: black;
     font-size:14px;
+    text-align: center;
+    font-family: 'Honk', system-ui;
 }
 
-.imagen {
-    max-width: 10%;
-    border-radius: 5%;
+p {
+    text-align: justify;
+    font-size: 12px;
+    font-family: 'Inconsolata', monospace;
+    margin-left: 5px;
 }
 
-.paragraph {
-    max-width: 30%;
+.h1-class {
+    margin: 10px;
+}
+
+.carta {
+    background-color: rgb(70, 70, 70);
+    width: 360px;
+    height: auto;
+    border-radius: 2%;
+}
+
+
+.img-style {
+   width: auto;
+   height: 100px;
+   margin-right: 5px;
+   border-radius: 50%;
+   border: 5px solid #9C6F2C;
+}
+
+.carta2 {
+    display: flex;
+    align-items: center;
+    margin: 10px;
 }
